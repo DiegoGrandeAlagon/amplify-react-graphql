@@ -1,0 +1,14 @@
+{
+  "resourceName": "s3images",
+  "policyUUID": "4a7a41f1",
+  "bucketName": "amplifyreactgraphqlbucket",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
